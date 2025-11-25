@@ -1,6 +1,10 @@
+# GOOGLE
 dns.google
 dns64.dns.google
-dns.cloudflare.com
+dns.google.com
+dns64.dns.google.com
+
+# CLOUDFLARE DoH/DoT
 cloudflare-dns.com
 chrome.cloudflare-dns.com
 mozilla.cloudflare-dns.com
@@ -8,24 +12,90 @@ security.cloudflare-dns.com
 family.cloudflare-dns.com
 one.one.one.one
 1dot1dot1dot1.cloudflare-dns.com
+cloudflare-gateway.com
+
+# NEXTDNS
 dns.nextdns.io
 router.nextdns.io
+steering.nextdns.io
+anycast.dns.nextdns.io
+
+# QUAD9
 dns.quad9.net
+dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
+dns13.quad9.net
+
+# ADGUARD
 dns.adguard.com
 dns-family.adguard.com
 dns-unfiltered.adguard.com
+adguard-dns.com
+
+# CLEANBROWSING
 doh.cleanbrowsing.org
+adult-filter-dns.cleanbrowsing.org
+family-filter-dns.cleanbrowsing.org
+security-filter-dns.cleanbrowsing.org
+
+# DNS.SB
 doh.dns.sb
-doh.dnslify.com
-doh.powerdns.org
+public-dns-a.dns.sb
+public-dns-b.dns.sb
+
+# DNSFORGE
+dnsforge.de
+clean.dnsforge.de
+hard.dnsforge.de
+doh.dnsforge.de
+
+# MULLVAD
 dns.mullvad.net
+adblock.dns.mullvad.net
+base.dns.mullvad.net
+extended.dns.mullvad.net
 doh.mullvad.net
-dns.twnic.tw
+resolver2.doh.mullvad.net
+
+# QUAD101 / TWNIC (Taiwan)
 dns.quad101.tw
 dot.quad101.tw
+dns.twnic.tw
+dot.twnic.tw
+
+# KEWEON (MUY IMPORTANTE)
 dns.keweon.com
 dns.keweon.net
 dns.keweon.center
+
+# POWERDNS
+doh.powerdns.org
+
+# DNSLIFY
+a.ns.dnslify.com
+b.ns.dnslify.com
+doh.dnslify.com
+
+# BLUEMOON / BLAHDNS
+doh-de.blahdns.com
+doh-fi.blahdns.com
+doh-jp.blahdns.com
+doh-sg.blahdns.com
+
+# LIBREDNS
+doh.libredns.gr
+dot.libredns.gr
+
+# CONTROLD
 dns.controld.com
+freedns.controld.com
+p0.freedns.controld.com
+p1.freedns.controld.com
+p2.freedns.controld.com
+p3.freedns.controld.com
+family.freedns.controld.com
+
+# OPEN DNS OBLIVIOUS / ODoH
+odoh.cloudflare-dns.com
+odoh.crypto.sx
