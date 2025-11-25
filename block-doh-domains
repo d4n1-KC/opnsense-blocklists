@@ -1,30 +1,86 @@
-# Google DoH
+# Google
 dns.google
 dns64.dns.google
 dns.google.com
 dns64.dns.google.com
 
-# Cloudflare DoH
+# Quad9
+dns.quad9.net
+dns11.quad9.net
+dns12.quad9.net
+
+# Cloudflare
 cloudflare-dns.com
-chrome.cloudflare-dns.com
-mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 family.cloudflare-dns.com
+mozilla.cloudflare-dns.com
+one.one.one.one
+1dot1dot1dot1.cloudflare-dns.com
+chrome.cloudflare-dns.com
 cloudflare-gateway.com
 
 # NextDNS
 dns.nextdns.io
-
-# Quad9
-dns.quad9.net
-
-# AdGuard DoH
-dns.adguard-dns.com
-dns-family.adguard-dns.com
-dns-unfiltered.adguard-dns.com
+router.nextdns.io
 
 # OpenDNS / Cisco
-doh.opendns.com
+dns.opendns.com
+resolver1.opendns.com
+resolver2.opendns.com
+resolver3.opendns.com
+resolver4.opendns.com
+
+# Adguard
+dns.adguard.com
+dns-unfiltered.adguard.com
+dns-family.adguard.com
+
+# Mullvad
+dns.mullvad.net
+doh.mullvad.net
+resolver2.doh.mullvad.net
+
+# DNSForge (Germany)
+dnsforge.de
+doh.dnsforge.de
+
+# SB
+dot.sb
+dns.sb
+
+# TWNIC / Quad101 (Taiwan, popular DNS)
+dns.twnic.tw
+dot.twnic.tw
+dns.quad101.tw
+dot.quad101.tw
+
+# Keweon (VPN DNS, VERY IMPORTANT)
+dns.keweon.center
+dns.keweon.net
+dns.keweon.com
+
+# Digitale Gesellschaft (Switzerland)
+dns.digitale-gesellschaft.ch
+dot.digitale-gesellschaft.ch
+
+# Neutopia
+dns.neutopia.org
+
+# LibreDNS
+doh.libredns.gr
+dot.libredns.gr
+
+# Netweaver
+dot.netweaver.uk
+
+# PubDNS
+dot.pub
+
+# Flatuslifir
+dns.flatuslifir.is
+
+# BebasDNS
+dns.bebasdns.com
 
 # CleanBrowsing
 doh.cleanbrowsing.org
@@ -32,52 +88,20 @@ doh.cleanbrowsing.org
 # DNS.SB
 doh.dns.sb
 
-# LibreDNS
-doh.libredns.gr
-
-# BlahDNS
-doh-de.blahdns.com
-doh-fi.blahdns.com
-doh-jp.blahdns.com
-doh-sg.blahdns.com
-
 # PowerDNS
 doh.powerdns.org
 
-# Seby DoH
+# SEBY
 doh.seby.io
 
-# Xfinity
-doh.xfinity.com
-
-# 360 (China)
+# 360
 doh.360.net
 
-# Rubyfish (China)
+# Rubyfish
 dns.rubyfish.cn
 
-# DNSwarden
+# DNSWarden
 doh.dnswarden.com
-
-# Digitale Gesellschaft
-doh.digitale-gesellschaft.ch
-
-# mullvad vpn
-dns.mullvad.net
-doh.mullvad.net
-resolver2.doh.mullvad.net
-
-# 2FAL
-doh.2fal.io
-
-# TWNIC
-dns.twnic.tw
-
-# apad
-doh.apad.pro
-
-# netweaver
-doh.netweaver.uk
 
 # dnshome
 dns.dnshome.de
@@ -88,26 +112,17 @@ doh.dnslify.com
 # oszx
 dns.oszx.co
 
-# privacy-servers
-doh.privacy-servers.net
-
 # 6fdns
 doh.6fdns.com
+
+# privacy-servers
+doh.privacy-servers.net
 
 # controld
 dns.controld.com
 
-# AliDNS
-dns.alidns.com
+# apad
+doh.apad.pro
 
-# FFmuc
-dot.ffmuc.net
-
-# Libredns DOT
-dot.libredns.gr
-
-# Mullvad DOT
-dot.digitale-gesellschaft.ch
-
-# Alidns DOT
-dns.alidns.com
+# netweaver duplicate (DOT)
+dot.netweaver.uk
