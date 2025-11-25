@@ -1,4 +1,3 @@
-host
 dns.google
 dns.quad9.net
 dns11.quad9.net
